@@ -1,0 +1,5 @@
+[RandomX]
+wallet = 89WeKV9nsmhbt51hKdDeUxUrw39hHReNE1maUVEdxpJoK795sCRVn8h2aETCDUiVHPh9HG9Yxdw46AzmBnvBb9TrieriouPc
+coin = XMR
+rigName = test2
+pool1 = stratum+ssl://stratum.eu-west.nicehash.com:33380
